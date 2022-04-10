@@ -1,0 +1,303 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0%;
+  background: #edfbfd;
+}
+
+.nav-link {
+  font-family: "Comfortaa", cursive;
+  color: #5f7798;
+}
+
+.nav-link:hover {
+  color: #7c83fd;
+}
+
+h6 {
+  color: #7c83fd;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+}
+
+h1 {
+  color: #0e4886;
+  font-size: 37px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+  text-align: center;
+}
+
+.T1 {
+  color: #7c83fd;
+}
+
+.ilustra {
+  position: static;
+  width: 550px;
+  height: 374.1px;
+  left: 445px;
+  padding-top: 1rem;
+}
+
+.linked {
+  color: #0e4886;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 27px;
+  text-decoration: none;
+  padding-top: 2%;
+  /* identical to box height */
+
+  /* Indigo */
+
+  color: #0e4886;
+}
+
+.linked:hover {
+  color: #7c83fd;
+}
+
+.arrow {
+  /* Arrow - Down 2 */
+  width: 17.5px;
+  height: 8.75px;
+}
+
+.Product {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 48px;
+  /* identical to box height */
+
+  /* Indigo */
+
+  color: #0e4886;
+  padding-top: 4rem;
+}
+
+.T2 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+
+  /* Gray */
+
+  color: #5f7798;
+}
+
+.card {
+  /* Auto layout */
+
+  padding: 15px;
+  align-items: center;
+
+  background: #ffffff;
+  border-radius: 20px;
+  border-color: #ffffff;
+}
+
+.card1 {
+  /* Auto layout */
+
+  padding: 15px;
+
+  background: #ffffff;
+  border-radius: 20px;
+  border-color: #ffffff;
+}
+
+.card-title {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 30px;
+  margin-top: 20px;
+  /* identical to box height */
+
+  /* Indigo */
+
+  color: #0e4886;
+}
+
+.card-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
+  margin-top: 9px;
+  text-decoration: none;
+  /* identical to box height */
+
+  /* Primary */
+
+  color: #7c83fd;
+}
+
+.card-text1 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
+  margin-top: 9px;
+  /* identical to box height */
+
+  /* Primary */
+
+  color: #5f7798;
+}
+
+.testi-text {
+  color: #5f7798;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 140%;
+  justify-content: center;
+}
+
+.Item {
+  margin-top: 2rem;
+}
+
+.T3 {
+  text-align: left;
+}
+
+.rate {
+  margin-top: 11px;
+}
+
+.Phone {
+  padding-top: 5rem;
+  padding-bottom: 1rem;
+}
+
+.grow {
+  margin-top: 1rem;
+}
+
+.button-text {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.footer {
+  margin-top: 7rem;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  padding: 20px;
+  /* identical to box height */
+
+  text-align: center;
+
+  /* Oceana */
+
+  color: #edfbfd;
+  background-color: #7c83fd;
+}
+
+/* DETAIL */
+
+.Detail {
+  padding-top: 3rem;
+}
+
+.spec {
+  width: 314px;
+  height: 358px;
+
+  /* white */
+
+  background: #ffffff;
+  border-radius: 20px;
+}
+
+h5 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height */
+
+  /* Indigo */
+
+  color: #0e4886;
+}
+
+strong {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  /* Indigo */
+
+  color: #0e4886;
+}
+
+.box {
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+
+  width: 560px;
+}
+
+.confirm {
+  background-color: #7c83fd;
+  border-radius: 10px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  width: 494px;
+  height: 55px;
+}
+
+.T5 {
+  color: #5f7798;
+}
+
+.T6 {
+  color: #7c83fd;
+}
+
+.cek {
+  margin-top: 30px;
+}
+
+.form-control {
+  background: #ffffff;
+  border-radius: 10px;
+  border: none;
+}
+
+.btn-primary {
+  background: #7c83fd;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+
+.btn-outline-primary {
+  border-color: #7c83fd;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
